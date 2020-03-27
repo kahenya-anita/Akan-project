@@ -1,0 +1,23 @@
+align-content: normal
+align-items: normal
+align-self: auto
+align-baseline: auto
+animation-direction: normal
+animation-duration: 0s
+animation-iteration-count: 1
+animation-name: none
+animation-play-state: running
+animation-timing-function:-webkit-search-results-decoration
+backface-visibility: :focus-visible
+background-attachment: scroll
+background-blend-mode: normal
+background-clip: :border-box
+background-color:rgb(240,244,245)
+
+element.style {
+    background-color: blue;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0;
+    min-height: 100%;
+}
